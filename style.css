@@ -1,0 +1,18 @@
+body{
+  color:rgb(231, 205, 170);  
+  background-color: cadetblue;
+}
+.heading{
+    width: 85%;
+    font-size: 25px;
+    text-align: center;
+}
+#camera{
+    border:2px dashed rgb(231, 205, 170);   
+    width: 350px;
+    height: 300px;
+}
+#result_object_name,#result_object_accuracy{
+    color:salmon;
+    
+}
